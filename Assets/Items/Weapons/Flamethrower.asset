@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 405d1eac0f764d0495746de22ff0132f, type: 3}
+  m_Name: Flamethrower
+  m_EditorClassIdentifier: 
+  name: flamethrower
+  secondary: 1
+  usetime: 0.15
+  isGun: 1
+  meleeDamage: 0
+  meleeReach: 0
+  meleeKnockbackImpulse: 0
+  velocity: 12
+  sprite: {fileID: -7067851115847441873, guid: 23246867e9b7d144e9e64a16a8cd858d, type: 3}
+  bulletPrefab: {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  bulletsHaveContainer: 0
+  startingAmmo: 30
+  clipSize: 90
+  replenishClip: 150
+  recoil: 0
+  reloadTime: 1

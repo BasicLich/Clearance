@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82b9fd95995840348f31454545f0575a, type: 3}
+  m_Name: Toilet
+  m_EditorClassIdentifier: 
+  foods:
+  - food: {fileID: 11400000, guid: 24dd419342ecd444d8afbdc58705614f, type: 2}
+    weight: 1
+    rangeFrom: 0
+    rangeTo: 1
+  - food: {fileID: 11400000, guid: 39f4f44c38b9bfd419a70a529c8bba43, type: 2}
+    weight: 1
+    rangeFrom: 1
+    rangeTo: 2
+  - food: {fileID: 11400000, guid: f97c9a802c43e3946a9dcbc64ad57e33, type: 2}
+    weight: 1
+    rangeFrom: 2
+    rangeTo: 3
+  - food: {fileID: 11400000, guid: 5fefd06bdb856664388a1b683adfde71, type: 2}
+    weight: 1
+    rangeFrom: 3
+    rangeTo: 4
+  weapons: []
+  weaponChance: 0
+  foodChance: 50
+  ammoChance: 80

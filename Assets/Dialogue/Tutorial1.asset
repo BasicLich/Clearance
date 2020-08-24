@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a6f4666930142c3937ce52b11e95614, type: 3}
+  m_Name: Tutorial1
+  m_EditorClassIdentifier: 
+  displayName: sgt. wilson
+  dialogue:
+  - welcome to the city mercenary! you use wasd to move around. use both mouse buttons
+    to shoot up to two weapons.
+  - you will likely find secondary weapons like rpgs and flamethrowers deeper into
+    the city. make good use of these, and be mindful of their limited ammo.
+  - as per your agreement you will be tasked with clearing all hostiles. upon completion
+    of this task you will be rewarded as discussed.
+  - the city and its leftover resources are completely at your disposal.
+  - whenever you see a military zone, people dressed like him over there will fill
+    up all of your ammo and health.
+  - oh, and if you meet any of my men out there feel free to help them. as thanks
+    they will assist you in fighting the hostiles.
+  - however they will only refill your resources once. so use their resources wisely!
+  - keep an eye out for things to help you along the way and make sure to watch your
+    back.
+  - good luck! hope to see you on the other side.

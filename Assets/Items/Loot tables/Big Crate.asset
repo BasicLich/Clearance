@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82b9fd95995840348f31454545f0575a, type: 3}
+  m_Name: Big Crate
+  m_EditorClassIdentifier: 
+  foods:
+  - food: {fileID: 11400000, guid: 0a85623a07a86584ea4c254cc945f985, type: 2}
+    weight: 1
+    rangeFrom: 0
+    rangeTo: 1
+  - food: {fileID: 11400000, guid: 2e5303729155fa1489a04638c3343ffa, type: 2}
+    weight: 1
+    rangeFrom: 1
+    rangeTo: 2
+  weapons:
+  - weapon: {fileID: 11400000, guid: cb64cef0899127243a110ce581ef1582, type: 2}
+    weight: 8
+    rangeFrom: 0
+    rangeTo: 8
+  - weapon: {fileID: 11400000, guid: eed03459b399bb3499becacbbc2c6d4c, type: 2}
+    weight: 6
+    rangeFrom: 8
+    rangeTo: 14
+  - weapon: {fileID: 11400000, guid: 632537673a0979c499b7c679e8c980d4, type: 2}
+    weight: 6
+    rangeFrom: 14
+    rangeTo: 20
+  - weapon: {fileID: 11400000, guid: 1a496a82c823dd746872b1f0d7371f88, type: 2}
+    weight: 8
+    rangeFrom: 20
+    rangeTo: 28
+  weaponChance: 90
+  foodChance: 80
+  ammoChance: 100

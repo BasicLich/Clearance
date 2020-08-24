@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82b9fd95995840348f31454545f0575a, type: 3}
+  m_Name: Small Crate
+  m_EditorClassIdentifier: 
+  foods:
+  - food: {fileID: 11400000, guid: 24dd419342ecd444d8afbdc58705614f, type: 2}
+    weight: 5
+    rangeFrom: 0
+    rangeTo: 5
+  - food: {fileID: 11400000, guid: 0a85623a07a86584ea4c254cc945f985, type: 2}
+    weight: 1
+    rangeFrom: 5
+    rangeTo: 6
+  - food: {fileID: 11400000, guid: 39f4f44c38b9bfd419a70a529c8bba43, type: 2}
+    weight: 5
+    rangeFrom: 6
+    rangeTo: 11
+  - food: {fileID: 11400000, guid: f97c9a802c43e3946a9dcbc64ad57e33, type: 2}
+    weight: 3
+    rangeFrom: 11
+    rangeTo: 14
+  - food: {fileID: 11400000, guid: 9509222b66ae1964f87b67659143d993, type: 2}
+    weight: 2
+    rangeFrom: 14
+    rangeTo: 16
+  - food: {fileID: 11400000, guid: 2e5303729155fa1489a04638c3343ffa, type: 2}
+    weight: 1
+    rangeFrom: 16
+    rangeTo: 17
+  - food: {fileID: 11400000, guid: 5fefd06bdb856664388a1b683adfde71, type: 2}
+    weight: 5
+    rangeFrom: 17
+    rangeTo: 22
+  weapons:
+  - weapon: {fileID: 11400000, guid: a3968f8401624c547b67f318e39583a0, type: 2}
+    weight: 6
+    rangeFrom: 0
+    rangeTo: 6
+  - weapon: {fileID: 11400000, guid: 1a496a82c823dd746872b1f0d7371f88, type: 2}
+    weight: 4
+    rangeFrom: 6
+    rangeTo: 10
+  weaponChance: 80
+  foodChance: 90
+  ammoChance: 50

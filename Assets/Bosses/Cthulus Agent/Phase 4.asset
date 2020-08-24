@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84f0145631a243d28427f36bdd3b738d, type: 3}
+  m_Name: Phase 4
+  m_EditorClassIdentifier: 
+  firesBullets: 1
+  timeBetweenShots: 0.25
+  bulletTypes:
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 756714435901559490, guid: 115cd6e100e729e4c8f05c97489394c5, type: 3}
+  - {fileID: 2121724319893650508, guid: 65bf5d8ed50b7db41a4371b7f61e0bd3, type: 3}
+  bulletSpacing: 30
+  bulletVelocity: 5
+  rotationalOffsetIncrFrom: 0
+  rotationalOffsetIncrTo: 30
+  spawnsEnemies: 1
+  possibleEnemies:
+  - {fileID: 8005585667020548289, guid: ebb7359f58622db439425ba7d84ae9d1, type: 3}
+  - {fileID: 7367693784633539891, guid: b3f39c857125e5140ba6db012e030c16, type: 3}
+  - {fileID: 3485779220966208682, guid: f1e60ca2392b0244c8d241d1eae78262, type: 3}
+  totalCost: 18
+  endCondition: 0
+  hitpointThreshold: 0
+  timerLength: 0
+  invulnerableDuringPhase: 0

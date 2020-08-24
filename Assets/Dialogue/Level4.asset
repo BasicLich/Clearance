@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a6f4666930142c3937ce52b11e95614, type: 3}
+  m_Name: Level4
+  m_EditorClassIdentifier: 
+  displayName: sgt. wilson
+  dialogue:
+  - i have to say, i am most impressed that you have made it this far.
+  - this is your final stop. here you will find the most dangerous of foes.
+  - there is a mansion on this street. you should visit that to find some supplies
+    before taking on the end boss.
+  - good luck!

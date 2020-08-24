@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8eed02f814743619e40477fabf5fc0f, type: 3}
+  m_Name: CuthuluAgent
+  m_EditorClassIdentifier: 
+  displayName: cthulhu's agent
+  hitpoints: 50
+  phases:
+  - {fileID: 11400000, guid: fba2525018ee3464493523c3de108a81, type: 2}
+  - {fileID: 11400000, guid: b185f49f892dd014a8047dd52ae67dec, type: 2}
+  - {fileID: 11400000, guid: 9a0c0c22e2772134b80b64ca0e649426, type: 2}
+  - {fileID: 11400000, guid: b185f49f892dd014a8047dd52ae67dec, type: 2}
+  - {fileID: 11400000, guid: 7a251ec987f907e4eac919e3f56d80ca, type: 2}
+  - {fileID: 11400000, guid: b185f49f892dd014a8047dd52ae67dec, type: 2}
+  - {fileID: 11400000, guid: 85fd409fc3abee341bdad8e2cb6a137b, type: 2}
+  phaseTransitionTime: 7
+  lootCrateTimer: 10
+  hitpointsPerHeart: 5
+  loot:
+  - {fileID: 779138087084162881, guid: 81e99725d4d2977489ad7617a3361fa4, type: 3}
+  initiateEffect: {fileID: 8300000, guid: cdbd2b7ab0d99b345ab9d32190081574, type: 3}
