@@ -27,3 +27,7 @@ Normal song - Monument by Six Umbrellas https://freemusicarchive.org/music/Six_U
 Boss fight - Showdown by Creo https://freemusicarchive.org/music/Creo
 
 Sound effects either made in BFXR or from https://sellfy.com/99sounds/p/99-sound-effects/
+
+Triangulator - http://wiki.unity3d.com/index.php?title=Triangulator
+
+Fading Audio Source - http://wiki.unity3d.com/index.php/Fading_Audio_Source
