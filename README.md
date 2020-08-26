@@ -1,6 +1,6 @@
 # Clearance
 
-The source code to my Miz Jam 1 entry. Written in 48 hours. Developed in Unity 2020.1.2f.
+The source code to my Miz Jam 1 entry. Written in 48 hours. Developed in Unity 2020.1.3f.
 
 Vote here: https://itch.io/jam/miz-jam-1/rate/736886
 
